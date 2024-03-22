@@ -1,7 +1,7 @@
 # Credit-Score-Classification
 Applied Machine Learning Project
 
-The Credit Score Classification dataset serves as a valuable resource for machine learning tasks concerning an imbalanced dataset on credit scoring. Our project aimed to implement diverse classification models to categorize individuals into 'Poor,' 'Standard,' and 'Good' credit score classes. The Credit Score Classification project aimed to implement diverse classification models to categorize individuals into 'Poor,' 'Standard,' and 'Good' credit score classes. Techniques such as stratified sampling, random oversampling, random undersampling, and SMOTE facilitated informed financial decision-making on this imbalanced dataset.
+The Credit Score Classification dataset serves as a valuable resource for machine learning tasks concerning an imbalanced dataset on credit scoring. Our project aimed to implement diverse classification models to categorize individuals into 'Poor,' 'Standard,' and 'Good' credit score classes. Techniques such as stratified sampling, random oversampling, random undersampling, and SMOTE facilitated informed financial decision-making on this imbalanced dataset.
 
 #### Dataset Link: [Credit Score Classification Dataset](https://www.kaggle.com/datasets/parisrohan/credit-score-classification/data)
 
